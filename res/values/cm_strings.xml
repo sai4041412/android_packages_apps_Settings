@@ -159,4 +159,11 @@
     <string name="update_recovery_summary">Update the built-in recovery with system updates</string>
     <string name="update_recovery_on_warning">NOTICE: When this feature is enabled, your installed recovery will be replaced by one included with the current version of the running OS.\n\nYour recovery will be updated along with upgrades to your system, helping to ensure compatibility with future versions.\n\nWould you like to enable this feature?</string>
     <string name="update_recovery_off_warning">WARNING: When this feature is disabled, your installed recovery will not be updated with OS upgrades.\n\nFuture OS updates may not install with outdated or custom recovery versions.\n\nDo you really want to disable this feature?</string>
+
+    <!-- NavigationBar Gestural Mode Tweaks -->
+    <string name="navbar_gesture_mode_category_title">Gesture mode tweaks</string>
+    <string name="navbar_gesture_mode_category_key">gesture_mode_tweaks</string>
+    <string name="navbar_gesture_pill_toggle_title">Full screen gestures</string>
+    <string name="navbar_gesture_pill_toggle_summary">This will hide both the navigation bar and the pill for a seamless fullscreen gesture experience.</string>
+    <string name="navbar_gesture_pill_toggle_summary_disabled">This option is only available for gesture navigation!</string>
 </resources>
